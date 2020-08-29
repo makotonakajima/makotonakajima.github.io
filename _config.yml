@@ -104,22 +104,22 @@ author:
   links:
     - label: "makoto.nakajima@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:makoto.nakajima@gmail.com"
+      url: "mailto:makoto.nakajima@gmail.com"
     - label: "HP at FRB Philadelphia"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.philadelphiafed.org/research-and-data/economists/nakajima/"
+      url: "https://www.philadelphiafed.org/research-and-data/economists/nakajima/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/makotonkjm"
+      url: "https://twitter.com/makotonkjm"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/makotonakajima"
+      url: "https://github.com/makotonakajima"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/makotonkjm"
+      url: "https://instagram.com/makotonkjm"
 
 # Site Footer
 footer:
