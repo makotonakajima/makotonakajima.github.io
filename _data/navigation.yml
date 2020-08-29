@@ -1,15 +1,17 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Working Papers"
-    url: /wp.html
+    url: /wp/
   - title: "Publications"
-    url: /paper.html
+    url: /paper/
   - title: "Discussions"
-    url: /discuss.html
+    url: /discuss/
   - title: "Notes"
-    url: /note.html
+    url: /note/
   - title: "JHANK"
-    url: /jhank.html
+    url: /jhank/
   - title: "Contact"
     url: /contact/
   # - title: "Quick-Start Guide"
