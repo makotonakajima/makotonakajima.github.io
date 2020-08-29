@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Makoto"
   avatar           : "/files/image/makoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economist, specialized in macroeconomics and computational methods.<br><br>Economic Advisor and Economist, <a href='https://www.philadelphiafed.org/'>FRB Philadelphia>/a>."
+  bio              : "Economist, specialized in macroeconomics and computational methods.<br><br>Economic Advisor and Economist, <a href='https://www.philadelphiafed.org/'>FRB Philadelphia</a>."
 #  location         : "Somewhere"
   email            : "makoto.nakajima@gmail.com"
   links:
