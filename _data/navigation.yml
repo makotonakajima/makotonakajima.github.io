@@ -11,7 +11,7 @@ main:
   - title: "JHANK"
     url: /jhank.html
   - title: "Contact"
-    url: /contact.html
+    url: /contact/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
