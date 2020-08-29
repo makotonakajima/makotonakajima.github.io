@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Working Papers"
-    url: /wp/
+    url: /wp.html
   - title: "Publications"
-    url: /paper/
+    url: /paper.html
   - title: "Discussions"
-    url: /discuss/
+    url: /discuss.html
   - title: "Notes"
-    url: /notes/
+    url: /note.html
   - title: "JHANK"
-    url: /jhank/
+    url: /jhank.html
   - title: "Contact"
-    url: /contact/
+    url: /contact.html
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
