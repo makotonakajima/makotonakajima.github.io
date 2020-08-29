@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Working Papers"
+    url: /wp/
+  - title: "Publications"
+    url: /paper/
+  - title: "Discussions"
+    url: /discuss/
+  - title: "Notes"
+    url: /notes/
+  - title: "JHANK"
+    url: /jhank/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
