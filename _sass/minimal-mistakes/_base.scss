@@ -63,9 +63,10 @@ small,
   font-size: $type-size-6;
 }
 
-norm {
+norm,
+.norm {
   font-size: $type-size-5;
-  line-height: 1.0;
+  line-height: 1.2;
 }
 
 p {
