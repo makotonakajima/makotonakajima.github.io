@@ -81,6 +81,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/makotonkjm"
+  - "https://www.linkedin.com/in/makotonakajima"
+  - "https://www.facebook.com/public/Makoto-Nakajima"
+  - "https://www.instagram.com/makotonkjm"
 
 # Analytics
 analytics:
