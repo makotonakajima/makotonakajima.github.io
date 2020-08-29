@@ -6,12 +6,14 @@ main:
     url: /wp/
   - title: "Publications"
     url: /paper/
-  - title: "Discussions"
-    url: /discuss/
-  - title: "Notes"
-    url: /note/
   - title: "JHANK"
     url: /jhank/
+  - title: "Notes"
+    url: /note/
+  - title: "General Audience"
+    url: /br/
+  - title: "Discussions"
+    url: /discuss/
   - title: "Contact"
     url: /contact/
   # - title: "Quick-Start Guide"
