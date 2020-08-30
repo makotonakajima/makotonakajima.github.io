@@ -14,6 +14,8 @@ main:
     url: /br/
   - title: "Discussions"
     url: /discuss/
+  - title: "JHANK (JP)"
+    url: /jjhank/
   - title: "Contact"
     url: /contact/
   # - title: "Quick-Start Guide"
