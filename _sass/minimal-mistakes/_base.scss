@@ -76,6 +76,13 @@ emph,
   color: $link-color;
 }
 
+jtitle,
+.jtitle {
+  font-size: $type-size-4;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
 jtext,
 .jtext {
   font-size: $type-size-5;
