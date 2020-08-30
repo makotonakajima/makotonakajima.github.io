@@ -76,6 +76,15 @@ emph,
   color: $link-color;
 }
 
+journal,
+.journal {
+  font-size: $type-size-5;
+  line-height: 1.1;
+  color: $link-color;
+  font-weight: bold;
+  font-style: italic;
+}
+
 p {
   margin-bottom: 1.3em;
 }
