@@ -84,13 +84,13 @@ jtext, .jtext {
 }
 
 jabst, .jabst {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   line-height: 1.15;
   margin-bottom: 0.25em;
-    color: $abst-color;
+  color: $abst-color;
 }
 
-jabst, .jabst:hover {
+jabst, div.jabst:hover {
    color: $text-color;
 }
 
