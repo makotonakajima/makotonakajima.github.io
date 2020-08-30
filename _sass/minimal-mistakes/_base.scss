@@ -76,12 +76,18 @@ emph,
   color: $link-color;
 }
 
-journal,
-.journal {
-  font-size: $type-size-5;
-  line-height: 1.1;
+jtitle,
+.jtitle {
+  font-size: $type-size-4;
+  line-height: 1.0;
   font-weight: bold;
   font-style: italic;
+}
+
+jtext,
+.jtext {
+  font-size: $type-size-4;
+  line-height: 1.0;
 }
 
 p {
