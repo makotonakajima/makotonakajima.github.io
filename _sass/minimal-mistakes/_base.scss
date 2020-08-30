@@ -22,7 +22,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  margin: 0em 0 0.5em;
+  margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -42,11 +42,12 @@ h3 {
 }
 
 h4 {
+  margin-top: 0;
   font-size: $h-size-5;
 }
 
 h5 {
-  font-size: $h-size-6;
+  font-size: $h-size-5;
 }
 
 h6 {
