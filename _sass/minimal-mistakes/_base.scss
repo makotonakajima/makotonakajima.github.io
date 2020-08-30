@@ -73,13 +73,24 @@ jtitle, .jtitle {
   font-size: $h-size-5;
   line-height: 1.15;
   font-weight: bold;
-  margin: 1.5em 0 0.25em;
+  margin: 2.0em 0 0.25em;
 }
 
 jtext, .jtext {
   font-size: $type-size-5;
   line-height: 1.15;
   margin-bottom: 0.25em;
+}
+
+jabst, .jabst {
+  font-size: $type-size-6;
+  line-height: 1.15;
+  margin-bottom: 0.25em;
+    color: $abst-color;
+}
+
+jabst, .jabst:hover {
+   color: $text-color;
 }
 
 p {
