@@ -64,6 +64,12 @@ norm, .norm {
   line-height: 1.15;
 }
 
+jnorm, .jnorm {
+   font-family: "メイリオ";
+   font-size: $type-size-6;
+  line-height: 1.15;
+}
+
 emph, .emph {
   font-size: $type-size-5;
   line-height: 1.15;
