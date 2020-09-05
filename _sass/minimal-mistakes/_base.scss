@@ -69,21 +69,20 @@ jnorm, .jnorm {
 }
 
 emph, .emph {
-  font-size: $type-size-5;
   line-height: 1.3;
   font-weight: bold;
   color: $link-color;
 }
 
 jtitle, .jtitle {
-  font-size: $h-size-5;
+  font-size: $type-stext-5;
   line-height: 1.3;
   font-weight: bold;
   margin: 1.75em 0 0.25em;
 }
 
 jtext, .jtext {
-  font-size: $type-size-4;
+  font-size: $type-size-5;
   line-height: 1.3;
   margin-bottom: 0.25em;
 }
