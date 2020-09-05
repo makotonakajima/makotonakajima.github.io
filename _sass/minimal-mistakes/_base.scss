@@ -208,11 +208,12 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
 }
 
-li ul,
-li ol {
+compli, .compli {
+  margin-bottom: 0.25em;
   margin-top: 0.25em;
 }
 
