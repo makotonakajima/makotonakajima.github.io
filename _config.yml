@@ -120,7 +120,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "Home @ FRB PHL"
+    - label: "Me @ FRB PHL"
       icon: "fas fa-fw fa-link"
       url: "https://www.philadelphiafed.org/research-and-data/economists/nakajima/"
     - label: "My Google Scholar"
