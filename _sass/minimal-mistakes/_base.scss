@@ -213,7 +213,7 @@ ul, ol {
 }
 
 li {
-  margin-top: 0.5em;
+  margin-top: 0.em;
   margin-bottom: 0.0em;
 }
 
@@ -227,6 +227,11 @@ li1, .li1 {
 /*   margin-bottom: 0.5em; */
 /*   margin-top: 0.5em; */
 /* } */
+
+lin, .lin {
+  margin-top: 0.5em;
+  margin-bottom: 0.0em;
+}
 
 lic, .lic {
   margin-top: 0.25em;
