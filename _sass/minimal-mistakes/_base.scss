@@ -74,6 +74,12 @@ emph, .emph {
   color: $link-color;
 }
 
+strong, .strong {
+  line-height: 1.3;
+  font-weight: bold;
+  color: $red;
+}
+
 jtitle, .jtitle {
   font-size: $type-size-4;
   line-height: 1.2;
