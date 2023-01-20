@@ -98,8 +98,8 @@ analytics:
 author:
   name             : "Makoto"
   avatar           : "/files/image/makoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economist (macro, inequality, and computational methods). Economic Advisor and Economist at FRB Philadelphia."
-#  location         : "Somewhere"
+  bio              : "Economist (macro, inequality, and computational methods). Vice President and Economist at FRB Philadelphia."
+#  location         : "Philadelphia"
 #  email            : "makoto.nakajima@gmail.com"
   links:
     - label: "Email"
