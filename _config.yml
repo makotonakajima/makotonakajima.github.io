@@ -87,11 +87,11 @@ social:
   - "https://www.instagram.com/makotonkjm"
 
 # Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "UA-74720137-2"
-    anonymize_ip         : # true, false (default)
+#analytics:
+#  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+#  google:
+#    tracking_id          : "UA-74720137-2"
+#    anonymize_ip         : # true, false (default)
 
 
 # Site Author
